@@ -55,9 +55,10 @@ a {
   a:hover {
     color: #009ce0; }
 
-#main {
-  padding: 50px; }
-
 h1 {
   font-size: 300%;
 }
+
+#main {
+  padding: 50px; }
+
