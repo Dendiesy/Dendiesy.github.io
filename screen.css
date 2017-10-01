@@ -63,6 +63,9 @@ p {
   color: #228B22;
   font-size: 20px;
 }
+a {
+  color: #8A0707;
+}
 
 #main {
   padding: 50px; }
